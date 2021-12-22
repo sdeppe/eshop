@@ -1,3 +1,6 @@
+eShop app using react, react-router, firebase. Allows users to login or register using firebase to store and authenticate credentials. users can pick from items to add to a cart that will update in real time. Checkout page shows items in cart with a subtotal and allows users to remove items.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
